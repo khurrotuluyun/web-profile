@@ -1,4 +1,4 @@
-runtime: python39
+runtime: php55
 
 handlers:
 - url: /styles
